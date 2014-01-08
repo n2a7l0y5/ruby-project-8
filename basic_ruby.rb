@@ -49,14 +49,14 @@ puts "You are a " + type
 
   a = false
   x = !a ? 23 : 45
-  x = 45
+  x = 23
 
 
 
 # 6. What is the value of x?
   a = false
   x = a ? 23 : 45
-  x = 23
+  x = 45
 
 
 
